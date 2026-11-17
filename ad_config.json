@@ -1,0 +1,22 @@
+
+{
+  "config_version": 1,
+  "ads_enabled": true,
+
+  "app_open": {
+    "enabled": true,
+    "ad_unit_id": "ISI_ID_APP_OPEN"
+  },
+
+  "native": {
+    "enabled": true,
+    "ad_unit_id": "ISI_ID_NATIVE"
+  },
+
+  "interstitial": {
+    "enabled": true,
+    "ad_unit_id": "ISI_ID_INTERSTITIAL"
+  },
+
+  "fetch_interval_minutes": 1
+}
